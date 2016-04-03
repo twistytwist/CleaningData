@@ -8,3 +8,5 @@ To use this function the files in the above zip must be stored locally in the wo
 
 #CodeBook.md
 Contains code book for this project.
+
+Note: the uci har data is included as  convenience.
