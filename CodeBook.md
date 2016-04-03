@@ -31,10 +31,11 @@ fBodyGyroJerkMag
 
 #Our manipulation of the data:
 In RunAnalysis.R we do the following with the day:
-
-1) Pull out only the mean and standard deviation values on these estimate variables.
-2) Combine the test and train estimate data into one dataset
-3) Combine the subject ids with the estimate data into one dataset
-4) Combine the acitivy data with the other data points and convert the activity id into the friendly name for the activity in the dataset
-5) Calculate the mean of every set of data by activity and user
-6) Return a tidy set from step 5
+<ol>
+<li>Pull out only the mean and standard deviation values on these estimate variables.</li>
+<li>Combine the test and train estimate data into one dataset</li>
+<li>Combine the subject ids with the estimate data into one dataset</li>
+<li>Combine the acitivy data with the other data points and convert the activity id into the friendly name for the activity in the dataset</li>
+<li>Calculate the mean of every set of data by activity and user</li>
+<li>Return a tidy set from step 5</li>
+</ol>
