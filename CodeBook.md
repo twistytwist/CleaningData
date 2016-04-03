@@ -39,3 +39,12 @@ In RunAnalysis.R we do the following with the day:
 <li>Calculate the mean of every set of data by activity and user</li>
 <li>Return a tidy set from step 5</li>
 </ol>
+
+#Final data set
+The final data set produced includes the following:
+<ol>
+<li>subjectid: id of subject for that observation</li>
+<li>activity: friendly name of the activity for that observation</li>
+<li>...mean or ...std: average of that particular calculation for that particular user on that observation</li>
+</ol>
+
